@@ -1,7 +1,7 @@
 # Extension-of-neural-network-architecture
 Top level repository for projects related to my bachelor's thesis.
 
-Mirrored repository of the latex source of the thesis
+Mirror of the latex source of the thesis on Overleaf
 - https://github.com/RKCZ/Bachelor-s-thesis
 
 The conversion and evaluation of the spiking network used for classification of event-related potentials
